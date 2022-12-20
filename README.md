@@ -24,8 +24,8 @@ Try running some of the following tasks:
 npx hardhat accounts
 
 # to run and test locally:
-node scripts/run.js
+npx hardhat run scripts/run.js
 
 # to deploy on the blockchain
-node scripts/deploy.js
+npx hardhat run scripts/deploy.js
 ```
