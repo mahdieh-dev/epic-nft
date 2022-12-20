@@ -7,7 +7,7 @@ Every address will have the chance to mint their own NFTs but it will have a max
 A cooldown timer of 1 minute is set after each minting process.
 
 The contract is deployed on Goerli testnet. 
-The UI is hosted by Replit. To test this project, go to [the WavePortal website](https://mahdieh-nft-project.mshavandi.repl.co).
+The UI is hosted by Replit. To test this project, go to [the Epic NFT website](https://mahdieh-nft-project.mshavandi.repl.co).
 Make sure to have enough Goerli ETHs or get some from [this faucet](https://goerlifaucet.com/).
 
 ## How to run
