@@ -6,6 +6,10 @@ This contract will create 3 different SVG shapes with various random colors.
 Every address will have the chance to mint their own NFTs but it will have a maximum amount that will be specified by the web3 app that calls the `makeAnEpicNFT` function.
 A cooldown timer of 1 minute is set after each minting process.
 
+The contract is deployed on Goerli testnet. 
+The UI is hosted by Replit. To test this project, go to [the WavePortal website](https://mahdieh-nft-project.mshavandi.repl.co).
+Make sure to have enough Goerli ETHs or get some from [this faucet](https://goerlifaucet.com/).
+
 ## How to run
 
 To run the following scripts, you will need to create two files:
