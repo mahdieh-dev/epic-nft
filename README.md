@@ -13,6 +13,7 @@ A cooldown timer of 1 minute is set after each minting process.
 
 ## Built With
 
+- Solidity
 - Hardhat
 - Ethers
 - Ethereum-waffle
