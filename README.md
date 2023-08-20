@@ -17,6 +17,10 @@ A cooldown timer of 1 minute is set after each minting process.
 - Ethers
 - Ethereum-waffle
 
+## Live Demo
+
+Click [here](mahdieh-nft-project.mshavandi.repl.co/) to see the live demo.
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
